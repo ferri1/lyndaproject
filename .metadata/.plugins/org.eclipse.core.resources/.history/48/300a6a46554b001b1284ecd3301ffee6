@@ -1,0 +1,5 @@
+package com.bnp.entites;
+
+public class User {
+
+}
